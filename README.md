@@ -1,1 +1,1 @@
-# ssr
+# Single Source Reading
