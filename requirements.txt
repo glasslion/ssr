@@ -1,0 +1,5 @@
+zappa==0.32.1
+tweepy==3.5.0
+requests==2.12.5
+requests==2.12.5
+boto3==1.4.2
