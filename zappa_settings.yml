@@ -1,0 +1,6 @@
+---
+dev:
+  app_function: webapp.app
+  s3_bucket: w2s.ssr
+  aws_region: us-west-2
+
